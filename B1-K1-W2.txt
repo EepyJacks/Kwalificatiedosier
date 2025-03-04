@@ -6,3 +6,5 @@ BLAH BLAH
 
 Dit is de code om de footer te werken.
 
+
+QUICK FIX
