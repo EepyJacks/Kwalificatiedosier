@@ -4,3 +4,5 @@ De beginnend beroepsbeoefenaar maakt een (deel)ontwerp dat aansluit op de geform
 
 BLAH BLAH
 
+Dit is de code om de footer te werken.
+
